@@ -3,4 +3,12 @@ Designe
 **/.project
 **/.dbeaver
 
+**/.setting
+**/.classpath
+
+**/.mvn
+**/mvnw*
+**/target
+**/bin
+
 **/.DS_Store
